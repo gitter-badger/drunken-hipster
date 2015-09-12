@@ -1,4 +1,6 @@
 # drunken-hipster
+
+[![Join the chat at https://gitter.im/YetAnotherMinion/drunken-hipster](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/YetAnotherMinion/drunken-hipster?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Frequncy analysis tool for interactive decoding of a monosubstitution cipertext
 
 ![in_action](https://cloud.githubusercontent.com/assets/8005290/8488462/b3fd5516-20e0-11e5-946b-ef3f39f9ad85.png)
